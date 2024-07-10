@@ -1,0 +1,12 @@
+First Entity,Relationship,Second Entity
+Paris,has attraction,Eiffel Tower
+Paris,has accommodation,Hotel Lutetia
+London,has attraction,Big Ben
+London,has accommodation,The Savoy
+London,connected by train,Paris
+Paris,connected by flight,New York
+New York,has attraction,Statue of Liberty
+New York,has accommodation,The Plaza
+Rome,has attraction,Colosseum
+Rome,has accommodation,Hotel Eden
+Rome,connected by flight,London

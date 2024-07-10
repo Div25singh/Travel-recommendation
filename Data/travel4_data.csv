@@ -1,0 +1,133 @@
+First Entity,Relationship,Second Entity
+London,has attraction,Big Ben
+London,has accommodation,Claridge's
+London,connected by flight,New York
+London,connected by train,Paris
+London,has accommodation,The Savoy
+London,has attraction,Tower of London
+New York,has attraction,Statue of Liberty
+New York,has accommodation,The Plaza
+New York,connected by flight,London
+New York,connected by train,Washington D.C.
+Paris,has attraction,Eiffel Tower
+Paris,has accommodation,Hotel Lutetia
+Paris,has attraction,Louvre Museum
+Paris,connected by train,London
+Paris,connected by flight,New York
+Paris,has accommodation,Ritz Paris
+Tokyo,has attraction,Tokyo Tower
+Tokyo,has accommodation,The Ritz-Carlton
+Tokyo,connected by flight,New York
+Tokyo,connected by train,Kyoto
+Kyoto,has attraction,Fushimi Inari-taisha
+Kyoto,has accommodation,Hoshinoya Kyoto
+Kyoto,connected by train,Tokyo
+Kyoto,connected by flight,Osaka
+Osaka,has attraction,Osaka Castle
+Osaka,has accommodation,St. Regis Osaka
+Osaka,connected by flight,Kyoto
+Osaka,connected by train,Nara
+Nara,has attraction,Todai-ji Temple
+Nara,has accommodation,Noborioji Hotel
+Nara,connected by train,Osaka
+Nara,connected by flight,Tokyo
+Dubai,has attraction,Burj Khalifa
+Dubai,has accommodation,Atlantis The Palm
+Dubai,connected by flight,London
+Dubai,connected by train,Abu Dhabi
+Abu Dhabi,has attraction,Sheikh Zayed Mosque
+Abu Dhabi,has accommodation,Emirates Palace
+Abu Dhabi,connected by train,Dubai
+Abu Dhabi,connected by flight,New York
+Rome,has attraction,Colosseum
+Rome,has accommodation,The St. Regis Rome
+Rome,connected by flight,Paris
+Rome,connected by train,Venice
+Venice,has attraction,St. Mark's Basilica
+Venice,has accommodation,Belmond Hotel Cipriani
+Venice,connected by train,Rome
+Venice,connected by flight,Florence
+Florence,has attraction,Uffizi Gallery
+Florence,has accommodation,Four Seasons Hotel Firenze
+Florence,connected by flight,Venice
+Florence,connected by train,Milan
+Milan,has attraction,Duomo di Milano
+Milan,has accommodation,Bulgari Hotel Milan
+Milan,connected by train,Florence
+Milan,connected by flight,Paris
+Sydney,has attraction,Sydney Opera House
+Sydney,has accommodation,Shangri-La Sydney
+Sydney,connected by flight,London
+Sydney,connected by train,Melbourne
+Melbourne,has attraction,Great Ocean Road
+Melbourne,has accommodation,Park Hyatt Melbourne
+Melbourne,connected by train,Sydney
+Melbourne,connected by flight,Brisbane
+Brisbane,has attraction,South Bank Parklands
+Brisbane,has accommodation,Sofitel Brisbane Central
+Brisbane,connected by flight,Melbourne
+Brisbane,connected by train,Sydney
+Cape Town,has attraction,Table Mountain
+Cape Town,has accommodation,One&Only Cape Town
+Cape Town,connected by flight,Johannesburg
+Cape Town,connected by train,Durban
+Johannesburg,has attraction,Apartheid Museum
+Johannesburg,has accommodation,The Saxon Hotel
+Johannesburg,connected by flight,Cape Town
+Johannesburg,connected by train,Durban
+Durban,has attraction,Ushaka Marine World
+Durban,has accommodation,Oyster Box Hotel
+Durban,connected by train,Johannesburg
+Durban,connected by flight,Cape Town
+San Francisco,has attraction,Golden Gate Bridge
+San Francisco,has accommodation,The Ritz-Carlton
+San Francisco,connected by flight,New York
+San Francisco,connected by train,Los Angeles
+Los Angeles,has attraction,Hollywood Sign
+Los Angeles,has accommodation,Beverly Hills Hotel
+Los Angeles,connected by train,San Francisco
+Los Angeles,connected by flight,Las Vegas
+Las Vegas,has attraction,The Strip
+Las Vegas,has accommodation,Bellagio Hotel
+Las Vegas,connected by flight,Los Angeles
+Las Vegas,connected by train,Phoenix
+Phoenix,has attraction,Desert Botanical Garden
+Phoenix,has accommodation,Arizona Biltmore
+Phoenix,connected by train,Las Vegas
+Phoenix,connected by flight,San Francisco
+Miami,has attraction,Miami Beach
+Miami,has accommodation,Fontainebleau Miami Beach
+Miami,connected by flight,New York
+Miami,connected by train,Orlando
+Orlando,has attraction,Walt Disney World
+Orlando,has accommodation,The Ritz-Carlton
+Orlando,connected by train,Miami
+Orlando,connected by flight,Atlanta
+Atlanta,has attraction,Georgia Aquarium
+Atlanta,has accommodation,Four Seasons Hotel Atlanta
+Atlanta,connected by flight,Orlando
+Atlanta,connected by train,Nashville
+Nashville,has attraction,Grand Ole Opry
+Nashville,has accommodation,The Hermitage Hotel
+Nashville,connected by train,Atlanta
+Nashville,connected by flight,Chicago
+Chicago,has attraction,Millennium Park
+Chicago,has accommodation,The Peninsula Chicago
+Chicago,connected by flight,Nashville
+Chicago,connected by train,New York
+Boston,has attraction,Fenway Park
+Boston,has accommodation,Four Seasons Hotel Boston
+Boston,connected by flight,Chicago
+Boston,connected by train,New York
+Washington D.C.,has attraction,The White House
+Washington D.C.,has accommodation,The Ritz-Carlton
+Washington D.C.,connected by flight,New York
+Washington D.C.,connected by train,Boston
+Seattle,has attraction,Space Needle
+Seattle,has accommodation,Fairmont Olympic Hotel
+Seattle,connected by flight,San Francisco
+Seattle,connected by train,Portland
+Portland,has attraction,Powell's City of Books
+Portland,has accommodation,The Nines
+Portland,connected by train,Seattle
+Portland,connected by flight,San Francisco

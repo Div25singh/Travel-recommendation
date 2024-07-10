@@ -1,0 +1,51 @@
+First Entity,Relationship,Second Entity
+Paris,has attraction,Eiffel Tower
+Paris,has attraction,Louvre Museum
+Paris,has accommodation,Hotel Lutetia
+Paris,has accommodation,Ritz Paris
+London,has attraction,Big Ben
+London,has attraction,Tower of London
+London,has accommodation,The Savoy
+London,has accommodation,Claridge's
+London,connected by train,Paris
+London,connected by flight,New York
+New York,has attraction,Statue of Liberty
+New York,has attraction,Central Park
+New York,has accommodation,The Plaza
+New York,has accommodation,The Ritz-Carlton
+New York,connected by flight,Paris
+New York,connected by flight,London
+Rome,has attraction,Colosseum
+Rome,has attraction,Vatican Museums
+Rome,has accommodation,Hotel Eden
+Rome,has accommodation,The St. Regis Rome
+Rome,connected by flight,London
+Rome,connected by flight,New York
+Tokyo,has attraction,Tokyo Tower
+Tokyo,has attraction,Senso-ji Temple
+Tokyo,has accommodation,Park Hyatt Tokyo
+Tokyo,has accommodation,The Ritz-Carlton Tokyo
+Tokyo,connected by flight,New York
+Tokyo,connected by flight,Paris
+Tokyo,connected by flight,London
+Sydney,has attraction,Sydney Opera House
+Sydney,has attraction,Bondi Beach
+Sydney,has accommodation,Shangri-La Sydney
+Sydney,has accommodation,The Langham Sydney
+Sydney,connected by flight,Tokyo
+Sydney,connected by flight,London
+Sydney,connected by flight,New York
+Dubai,has attraction,Burj Khalifa
+Dubai,has attraction,The Dubai Mall
+Dubai,has accommodation,Burj Al Arab
+Dubai,has accommodation,Atlantis The Palm
+Dubai,connected by flight,London
+Dubai,connected by flight,New York
+Dubai,connected by flight,Tokyo
+Cape Town,has attraction,Table Mountain
+Cape Town,has attraction,Robben Island
+Cape Town,has accommodation,One&Only Cape Town
+Cape Town,has accommodation,The Silo Hotel
+Cape Town,connected by flight,London
+Cape Town,connected by flight,Dubai
+Cape Town,connected by flight,Sydney
